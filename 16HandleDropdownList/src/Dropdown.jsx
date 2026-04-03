@@ -8,7 +8,7 @@ function Dropdown() {
   return (
     <div>
       <h1>Selected Option: {selectedOption}</h1>
-      <select onChange={handleChange}>
+      <select onChange={handleChange} defaultValue={"Delhi"}>
         <option value="-1">Select an option</option>
         <option value="Delhi">
           Delhi

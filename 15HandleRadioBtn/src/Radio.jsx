@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function Radio() {
-    const [selectedOption, setSelectedOption] = useState("");
+    const [selectedOption, setSelectedOption] = useState("user not selected");
 
 
     return (
