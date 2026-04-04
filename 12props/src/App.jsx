@@ -1,7 +1,7 @@
-import User from "./User";
-import Collage from "./Course";
-import Clock from "./Clock";
-import Drop from "./Dropdown";
+import User from "./component/User";
+import Collage from "./component/Course";
+import Clock from "./component/Clock";
+import Drop from "./component/Dropdown";
 
 
 function App(color) {
