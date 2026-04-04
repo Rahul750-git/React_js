@@ -1,11 +1,11 @@
 import User from "./User";
 import Collage from "./Course";
 import Clock from "./Clock";
-import { useState } from "react";
+import Drop from "./Dropdown";
 
-function App() {
-  const [color, setColor] = useState("red")
-  console.log(color);
+
+function App(color) {
+
   
 
   // let name = "john"
@@ -53,18 +53,9 @@ function App() {
       <User {...obj2} />
       <hr />
       <Collage coursename={coursename} />
-      <div >
-        <h1>Digital Clock</h1>
-        <select id="sel" onChange={(e) => setColor(e.target.value)}>
-        <option value={"pink"}>select a option</option>
-          <option value={"green"}>Green</option>
-          <option value={"blue"}>Blue</option>
-          <option value={"red"}>Red</option>
-          <option value={"orange"}>Orange</option>
-        </select>
-      </div>
-
-      <Clock color={color}/>
+      <Drop/>
+      <Clock city ={color}/>
+      
     </div>
   );
 }
