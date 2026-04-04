@@ -1,3 +1,4 @@
+import User from "./User";
 function App() {
   const userData = [
     {
@@ -24,8 +25,11 @@ function App() {
     <div>
       <h1>Reuse Component in Loop </h1>
       {userData.map((user) => (
-     <div>Shyam</div>
+        <div key={user.Id}>
+       <User data={user}/>
+        </div>
       ))}
+      
     </div>
   );
 }
