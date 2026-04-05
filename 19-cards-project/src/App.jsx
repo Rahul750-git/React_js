@@ -7,7 +7,7 @@ const App = () => {
     {
       brandlogo:
         "https://freelogopng.com/images/all_img/1657952440google-logo-png-transparent.png",
-      nameOfCompany: "Google",
+      nameOfCompany: "Google ",
       datePosted: "2 days ago",
       postTag1: "Part Time",
       postTag2: "Fronted Developer",
@@ -17,7 +17,7 @@ const App = () => {
     },
     {
       brandlogo: "https://gpng.net/wp-content/uploads/Amazon-Logo-PNG-Free.png",
-      nameOfCompany: "Amazon",
+      nameOfCompany: "Amazon ",
       datePosted: "10 days ago",
       postTag1: "Full Time",
       postTag2: "Backend Developer",
@@ -28,7 +28,7 @@ const App = () => {
     {
       brandlogo:
         "https://tse1.mm.bing.net/th/id/OIP.w6wIB2kz6BXvOVV_ibR_mwHaG8?pid=Api&P=0&h=220",
-      nameOfCompany: "Microsoft",
+      nameOfCompany: "Microsoft ",
       datePosted: "2 days ago",
       postTag1: "Full Time",
       postTag2: "Full Stack Developer",
@@ -39,7 +39,7 @@ const App = () => {
     {
       brandlogo:
         "https://tse4.mm.bing.net/th/id/OIP._gmdrZwZCMJSC-nHx1L37gHaHa?pid=Api&P=0&h=220",
-      nameOfCompany: "Apple",
+      nameOfCompany: "Apple ",
       datePosted: "1 week ago",
       postTag1: "Half Time",
       postTag2: "Mobile App Developer",
@@ -50,7 +50,7 @@ const App = () => {
     {
       brandlogo:
         "https://hrcdn.net/s3_pub/istreet-assets/engage-assets/events/414/microsite/nvidia-logo-vert-rgb-blk-for-screen.png",
-      nameOfCompany: "NVIDIA",
+      nameOfCompany: "NVIDIA ",
       datePosted: "5 days ago",
       postTag1: "Full Time",
       postTag2: "DevOps Engineer",
@@ -61,7 +61,7 @@ const App = () => {
     {
       brandlogo:
         "https://logos-world.net/wp-content/uploads/2021/11/Meta-Emblem.png",
-      nameOfCompany: "Meta",
+      nameOfCompany: "Meta ",
       datePosted: "3 days ago",
       postTag1: "Part Time",
       postTag2: " Data Engineer",
@@ -72,7 +72,7 @@ const App = () => {
     {
       brandlogo:
         "https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo.png",
-      nameOfCompany: "Netflix",
+      nameOfCompany: "Netflix ",
       datePosted: "2 weeks ago",
       postTag1: "Full Time",
       postTag2: "Machine Learning Engineer",
@@ -83,7 +83,7 @@ const App = () => {
     {
       brandlogo:
         "http://3.bp.blogspot.com/-mPh7lr-L5kw/URx8FtZsRYI/AAAAAAAAAU8/1Rl4GwVdyhM/s1600/microsoft-logo+(1).jpg",
-      nameOfCompany: "Microsoft",
+      nameOfCompany: "Microsoft ",
       datePosted: "3 days ago",
       postTag1: "Part Time",
       postTag2: "QA / Test Engineer",
@@ -94,7 +94,7 @@ const App = () => {
     {
       brandlogo:
         "https://freelogopng.com/images/all_img/1657952440google-logo-png-transparent.png",
-      nameOfCompany: "Google",
+      nameOfCompany: "Google ",
       datePosted: "1 week ago",
       postTag1: "Full Time",
       postTag2: "Game Developer",
@@ -104,7 +104,7 @@ const App = () => {
     },
     {
       brandlogo: "https://logospng.org/download/apple/logo-apple-2048.png",
-      nameOfCompany: "Apple",
+      nameOfCompany: "Apple ",
       datePosted: "4 days ago",
       postTag1: "Full Time",
       postTag2: "Software Engineer",
