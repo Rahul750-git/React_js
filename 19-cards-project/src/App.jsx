@@ -134,6 +134,28 @@ const App = () => {
       pay: "$106.00 per hour",
       location: "Nodia, India",
     },
+      {
+      brandlogo:
+        "https://1000logos.net/wp-content/uploads/2023/03/HCL-logo.png",
+      nameOfCompany: "HCL Tech ",
+      datePosted: " 4 days ago",
+      postTag1: "Full Time",
+      postTag2: "Python Developer",
+      partTime: "Junior Level",
+      pay: "$116.00 per hour",
+      location: "New Delhi, India",
+    },
+      {
+      brandlogo:
+        "https://st1.latestly.com/wp-content/uploads/2025/03/Tech-Mahindra-Logo.jpg",
+      nameOfCompany: "Tech Mahindra  ",
+      datePosted: " 9 days ago",
+      postTag1: "Full Time",
+      postTag2: "Python Developer",
+      partTime: "Junior Level",
+      pay: "$102.00 per hour",
+      location: "Puna, India",
+    },
   ];
   console.log(jobopening);
 
