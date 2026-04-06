@@ -1,11 +1,11 @@
-import Button from "./component/button/Button."
+import Button from "./component/button/Button"
 
 function App() {
   
 
   return (
    <div>
-    <Button />
+   <Button/>
    </div>
   )
 }
