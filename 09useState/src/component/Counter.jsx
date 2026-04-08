@@ -4,10 +4,10 @@ import { useState } from 'react'
 const Counter = () => {
 
 const [first, setnum] = useState(0);
-function increasenum(){
+const increasenum = () => {
     if(first>=0) { setnum(first+1)}
 }
-function decreasenum(){
+const decreasenum = () => {
     if(first>0){ setnum(first-1)}
 }
 
