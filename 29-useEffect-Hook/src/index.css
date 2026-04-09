@@ -1,0 +1,20 @@
+*{
+    background-color: #333;
+}
+h1{
+    background-color: #fff;
+    width: 120px;
+    padding: 5px;
+    border-radius: 100%;
+    text-align: center;
+}
+button{
+    border-radius: 100%;
+    align-items: center;
+    margin-left: 30px;
+    color:#fff;
+}
+
+button:active {
+    background-color: red;
+}
