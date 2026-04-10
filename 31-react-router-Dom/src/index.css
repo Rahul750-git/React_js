@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 60px;
+    text-decoration: underline;
+    white-space: nowrap;
+    transform: translate(-50% ,-50%);
+}
+.nav {
+    display: flex;
+    text-align:center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: rgb(45, 96, 96);
+    
+}
+#link{
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 800;
+}
